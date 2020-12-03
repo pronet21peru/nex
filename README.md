@@ -9,15 +9,15 @@ creditos: @conectedmx
 ### 
 creditos: @alexmod80
 ### 
-creditos: casitadelterror
+creditos: @Pronet22
 ### 
-creditos: kalix1
+
 ## 
-creditos: powermx
+
 # 
-creditos: dankelthaher
+
 # 
-creditos: crazy-vpn
+
 # 
 ### SISTEMA (recomendados)
 ![](https://img.shields.io/badge/Ubuntu-16.04-orange)
@@ -26,7 +26,7 @@ creditos: crazy-vpn
 ![](https://img.shields.io/badge/Debian-7-red)
 ![](https://img.shields.io/badge/Debian-8-red)
 ![](https://img.shields.io/badge/Debian-9-red)
-![](https://img.shields.io/badge/Debian-10-red)
+! [] (https://img.shields.io/badge/Debian-10-red)
 
 #### Instalacion
 wget https://raw.githubusercontent.com/casitadelterror/nex/master/install/multiscript.sh && chmod +x *.sh && ./multiscript.sh
